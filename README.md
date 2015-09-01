@@ -11,7 +11,8 @@ This repo implements a very basic Kinegram viewer for the purposes of understand
 
 # Copyright
 
-Copyright 2014, Andrew Gwozdziewycz, web@apgwoz.com
+Copyright 2015, Andrew Gwozdziewycz, web@apgwoz.com
 
 Licensed under the GNU GPLv3, but I'm too lazy to even include a LICENSE file, since it's not really a big deal.
 
+The Dancing Banana was shamefully stolen from the Internet, specifically [here](http://www.kizoa.com/img/e8nZC.gif)
